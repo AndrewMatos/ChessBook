@@ -12,7 +12,7 @@ gem 'bcrypt', '3.1.12'
 #use postgresql as the databes for active record
 gem 'pg'
 # Use Puma as the app server
-gem 'puma', '~> 3.12.4'
+gem 'puma', '~> 4.3.11'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
